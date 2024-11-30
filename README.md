@@ -1,7 +1,11 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+If you want to have process envs, make sure you have installed the node packages, and create a .env file in the root of your package and define stuff, like so:
 
+```
+REACT_APP_AWS_REGION=eu-west-1
+```
 ## Available Scripts
 
 In the project directory, you can run:
